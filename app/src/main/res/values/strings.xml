@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MyShopping</string>
+    <string name="mainpage">首页</string>
+    <string name="shopingcart">购物车</string>
+    <string name="personcenter">我的爱购</string>
+</resources>
